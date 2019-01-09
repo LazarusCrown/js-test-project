@@ -8,5 +8,19 @@
   "dependencies": {
     "chai": "^4.1.2",
     "mocha": "^4.0.1"
-  }
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LazarusCrown/js-test-project.git"
+  },
+  "author": "ThoughtWorks + LazarusCrown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LazarusCrown/js-test-project/issues"
+  },
+  "homepage": "https://github.com/LazarusCrown/js-test-project#readme"
 }
